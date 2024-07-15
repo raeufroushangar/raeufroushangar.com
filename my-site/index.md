@@ -5,9 +5,9 @@ title: Home
 
 ![Profile Picture](/assets/images/profile.jpg)
 
-Hi, I'm Raeuf Roushangar, an interdisciplinary computational scientist with extensive experience in developing computational pipelines and algorithms, high-dimensional data analysis, statistical modeling, and machine and deep learning for bioinformatics applications.
+Hi, I'm **Raeuf Roushangar**, an interdisciplinary computational scientist with extensive experience in developing computational pipelines and algorithms, high-dimensional data analysis, statistical modeling, and machine and deep learning for bioinformatics applications.
 
-### Professional Summary
+## About Me
 - Proficient in developing end-to-end computational pipelines for bioinformatics and multi-omics data analysis: genomics, transcriptomics, metabolomics, and proteomics.
 - Skilled in algorithm development, machine learning, deep learning, data mining, statistical modeling, time series analysis, and image and natural language processing.
 - Experienced with Python, C/C++, and R.
@@ -22,6 +22,7 @@ Hi, I'm Raeuf Roushangar, an interdisciplinary computational scientist with exte
 Find my research on [Google Scholar](https://scholar.google.com/citations?user=NISquAgAAAAJ&hl=en).
 
 ## Connect with Me
+- Email: [your-email@example.com](mailto:your-email@example.com)
 - [LinkedIn](https://www.linkedin.com/in/raeufroushangar)
 - [GitHub](https://github.com/raeufroushangar)
 
