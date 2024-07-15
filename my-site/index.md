@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![Profile Picture](/assets/images/profile.jpg)
+<img src="/assets/images/profile.jpg" alt="Profile Picture" style="float: left; margin-right: 20px; width: 150px; border-radius: 50%;" />
 
 Hi, I'm **Raeuf Roushangar**, an interdisciplinary computational scientist with extensive experience in developing computational pipelines and algorithms, high-dimensional data analysis, statistical modeling, and machine and deep learning for bioinformatics applications.
 
@@ -27,9 +27,9 @@ Find my research on [Google Scholar](https://scholar.google.com/citations?user=N
 - [GitHub](https://github.com/raeufroushangar)
 
 ## Education
-- **Dual Degree-PhD in Computational Biology and Bioinformatics & Biochemistry**, Michigan State University (GPA: 3.84)
-- **B.S. in Biochemistry & Molecular Biology**, Michigan State University (GPA: 3.82)
-- **B.S. in Physics**, Cairo University (Grade: A+ “91-100%”)
+- **Dual Degree-PhD in Computational Biology and Bioinformatics & Biochemistry**, Michigan State University
+- **B.S. in Biochemistry & Molecular Biology**, Michigan State University
+- **B.S. in Physics**, Cairo University 
 
 ## Honors and Awards
 - Recipient of The Paul & Daisy Soros Fellowship for New Americans
