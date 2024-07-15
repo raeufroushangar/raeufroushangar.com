@@ -1,8 +1,8 @@
 title: "Raeuf Roushangar"
 email: "rroushangar19@gmail.com"
 description: "Interdisciplinary Computational Scientist"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://raeufroushangar.github.io" # the base hostname & protocol for your site
+baseurl: "https://raeufroushangar.github.io/my-site"  # Adjust with your specific URL
+# url: "https://raeufroushangar.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
