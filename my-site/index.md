@@ -3,20 +3,23 @@ layout: default
 title: Home
 ---
 
-<div style="text-align: center;">
-  <a href="mailto:rroushangar19@gmail.com">your-email@example.com</a>
+<div style="text-align: center; margin-bottom: 40px;">
+  <div style="font-size: 2.5em;">Raeuf Roushangar</div>
+  <div><a href="mailto:rroushangar19@gmail.com">rroushangar19@gmail.com</a></div>
 </div>
 
-<img src="/assets/images/profile.jpg" alt="Profile Picture" style="float: left; margin-right: 20px; width: 150px; border-radius: 40%;" />
+<div style="display: flex; align-items: center;">
+  <img src="/assets/images/profile.jpg" alt="Profile Picture" style="float: left; margin-right: 20px; width: 150px; border-radius: 40%;" />
+  
+  <div>
+    I am an interdisciplinary computational scientist with extensive experience in developing computational pipelines and algorithms, high-dimensional data analysis, statistical modeling, and machine and deep learning for bioinformatics applications.
 
-Hi, I'm **Raeuf Roushangar**, an interdisciplinary computational scientist with extensive experience in developing computational pipelines and algorithms, high-dimensional data analysis, statistical modeling, and machine and deep learning for bioinformatics applications.
-
-<br><br>
-
-<div style="clear: both;"></div>
-<div style="text-align: left;">
-  <a href="https://www.linkedin.com/in/raeufroushangar" target="_blank">LinkedIn</a> | 
-  <a href="https://github.com/raeufroushangar" target="_blank">GitHub</a>
+    <br><br>
+    <div style="text-align: left;">
+      <a href="https://www.linkedin.com/in/raeufroushangar" target="_blank">LinkedIn</a> | 
+      <a href="https://github.com/raeufroushangar" target="_blank">GitHub</a>
+    </div>
+  </div>
 </div>
 
 <br><br>
@@ -35,15 +38,10 @@ Hi, I'm **Raeuf Roushangar**, an interdisciplinary computational scientist with 
 ## Publications
 Find my research on [Google Scholar](https://scholar.google.com/citations?user=NISquAgAAAAJ&hl=en).
 
-## Connect with Me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/raeufroushangar)
-- [GitHub](https://github.com/raeufroushangar)
-
 ## Education
-- **Dual Degree-PhD in Computational Biology and Bioinformatics & Biochemistry**, Michigan State University
-- **B.S. in Biochemistry & Molecular Biology**, Michigan State University
-- **B.S. in Physics**, Cairo University 
+- **Dual Degree-PhD in Bioinformatics and Computational Biology & Biochemistry**, Michigan State University (2014 - 2018)
+- **B.Sc. in Biochemistry**, Michigan State University (2010 - 2014)
+- **B.Sc. in Physics**, Cairo University (2004 - 2008)
 
 ## Honors and Awards
 - Recipient of The Paul & Daisy Soros Fellowship for New Americans
