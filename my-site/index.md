@@ -9,16 +9,16 @@ title: Home
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="/assets/images/profile.jpg" alt="Profile Picture" style="float: left; margin-right: 20px; width: 150px; border-radius: 40%;" />
-  
-  <div>
-    I am an interdisciplinary computational scientist with extensive experience in developing computational pipelines and algorithms, high-dimensional data analysis, statistical modeling, and machine and deep learning for bioinformatics applications.
-
-    <br><br>
-    <div style="text-align: left;">
+  <div style="text-align: center; margin-right: 20px;">
+    <img src="/assets/images/profile.jpg" alt="Profile Picture" style="width: 200px; border-radius: 40%;" />
+    <div style="font-size: 0.9em; margin-top: 10px;">
       <a href="https://www.linkedin.com/in/raeufroushangar" target="_blank">LinkedIn</a> | 
       <a href="https://github.com/raeufroushangar" target="_blank">GitHub</a>
     </div>
+  </div>
+
+  <div>
+    I am an interdisciplinary computational scientist with extensive experience in developing computational pipelines and algorithms, high-dimensional data analysis, statistical modeling, and machine and deep learning for bioinformatics applications.
   </div>
 </div>
 
