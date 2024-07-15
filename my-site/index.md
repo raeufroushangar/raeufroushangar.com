@@ -24,27 +24,35 @@ title: Home
 
 <br><br>
 
-### Skills:
-- Proficient in developing end-to-end computational pipelines for bioinformatics and multi-omics data analysis: genomics, transcriptomics, metabolomics, and proteomics.
-- Skilled in algorithm development, machine learning, deep learning, data mining, statistical modeling, time series analysis, and image and natural language processing.
-- Experienced with Python, C/C++, and R.
-- Solid background in molecular biology techniques: PCR, rtPCR, mass spectrometry, and flow cytometry.
+<h3 style="margin-bottom: 5px;">Skills:</h3>
+<ul>
+  <li>Proficient in developing end-to-end computational pipelines for bioinformatics and multi-omics data analysis: genomics, transcriptomics, metabolomics, and proteomics.</li>
+  <li>Skilled in algorithm development, machine learning, deep learning, data mining, statistical modeling, time series analysis, and image and natural language processing.</li>
+  <li>Experienced with Python, C/C++, and R.</li>
+  <li>Solid background in molecular biology techniques: PCR, rtPCR, mass spectrometry, and flow cytometry.</li>
+</ul>
 
-### Projects:
-- [Encoding and Clustering Mutations Positional Impact Algorithm](https://github.com/raeufroushangar/ECMPIA)
-- [HIV pipeline](https://github.com/raeufroushangar/HIV_pipeline)
+<h3 style="margin-bottom: 5px;">Projects:</h3>
+<ul>
+  <li><a href="https://github.com/raeufroushangar/ECMPIA">Encoding and Clustering Mutations Positional Impact Algorithm</a></li>
+  <li><a href="https://github.com/raeufroushangar/HIV_pipeline">HIV pipeline</a></li>
+</ul>
 
-### Publications:
-Find my research on [Google Scholar](https://scholar.google.com/citations?user=NISquAgAAAAJ&hl=en).
+<h3 style="margin-bottom: 5px;">Publications:</h3>
+<p>Find my research on <a href="https://scholar.google.com/citations?user=NISquAgAAAAJ&hl=en">Google Scholar</a>.</p>
 
-### Education:
-- **Dual Degree-PhD in Bioinformatics and Computational Biology & Biochemistry**, Michigan State University (2014 - 2018)
-- **B.Sc. in Biochemistry**, Michigan State University (2010 - 2014)
-- **B.Sc. in Physics**, Cairo University (2004 - 2008)
+<h3 style="margin-bottom: 5px;">Education:</h3>
+<ul>
+  <li><strong>Dual Degree-PhD in Bioinformatics and Computational Biology & Biochemistry</strong>, Michigan State University (2014 - 2018)</li>
+  <li><strong>B.Sc. in Biochemistry</strong>, Michigan State University (2010 - 2014)</li>
+  <li><strong>B.Sc. in Physics</strong>, Cairo University (2004 - 2008)</li>
+</ul>
 
-### Honors and Awards:
-- Recipient of The Paul & Daisy Soros Fellowship for New Americans (2015 - 2017)
-- Recipient of Michigan State University Larry Fowler and Pamela Fraker Scholarships (2013 - 2014)
-- Recipient of Michigan State University Leader of the Year Award (2013)
-- Recipient of The Clinton Global Initiative University Award (2013)
-- Ranked 8th in Egypt’s National College Entrance Exam (Over 100,000 applicants) (2004)
+<h3 style="margin-bottom: 5px;">Honors and Awards:</h3>
+<ul>
+  <li>Recipient of The Paul & Daisy Soros Fellowship for New Americans (2015 - 2017)</li>
+  <li>Recipient of Michigan State University Larry Fowler and Pamela Fraker Scholarships (2013 - 2014)</li>
+  <li>Recipient of Michigan State University Leader of the Year Award (2013)</li>
+  <li>Recipient of The Clinton Global Initiative University Award (2013)</li>
+  <li>Ranked 8th in Egypt’s National College Entrance Exam (Over 100,000 applicants) (2004)</li>
+</ul>
