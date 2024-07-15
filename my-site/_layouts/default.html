@@ -21,12 +21,6 @@
       <div class="inner">
         <h1>{{ site.title | escape }}</h1>
         <h2>{{ site.description | escape }}</h2>
-        <!-- Commented out navigation links -->
-        <!-- <nav class="nav">
-          {% for link in site.links %}
-            <a href="{{ link.href }}">{{ link.title }}</a>
-          {% endfor %}
-        </nav> -->
       </div>
     </header>
     <main class="main-content">
@@ -34,8 +28,9 @@
     </main>
     <footer>
       <div class="footer-content">
-        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title | escape }}</p>
-        <p>Powered by <a href="https://jekyllrb.com/">Jekyll</a></p>
+        <!-- Remove or comment out the following lines -->
+        <!-- <p>&copy; {{ site.time | date: "%Y" }} {{ site.title | escape }}</p> -->
+        <!-- <p>Powered by <a href="https://jekyllrb.com/">Jekyll</a></p> -->
       </div>
     </footer>
   </body>
