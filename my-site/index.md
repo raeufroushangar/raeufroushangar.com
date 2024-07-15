@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![Profile Picture](/assets/images/image.jpg)
+![Profile Picture](/assets/images/profile.jpg)
 
 Hi, I'm Raeuf Roushangar, an interdisciplinary computational scientist with extensive experience in developing computational pipelines and algorithms, high-dimensional data analysis, statistical modeling, and machine and deep learning for bioinformatics applications.
 
