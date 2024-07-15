@@ -10,46 +10,45 @@ title: Home
 
 <div style="display: flex; align-items: center;">
   <div style="text-align: center; margin-right: 20px;">
-    <img src="/assets/images/profile.jpg" alt="Profile Picture" style="width: 100px; border-radius: 10%;" />
+    <img src="/assets/images/profile.jpg" alt="Profile Picture" style="width: 125px; border-radius: 10%;" />
     <div style="font-size: 0.9em; margin-top: 10px;">
       <a href="https://www.linkedin.com/in/raeufroushangar" target="_blank">LinkedIn</a> | 
-      <a href="https://github.com/raeufroushangar" target="_blank">GitHub</a>
+      <a href="https://github.com/raeufroushangar" target="_blank">GitHub</a> | 
+      <a href="https://scholar.google.com/citations?user=NISquAgAAAAJ&hl=en" target="_blank">Google Scholar</a>
     </div>
   </div>
 
-  <div style="max-width: 600px;">
-    I am an interdisciplinary computational scientist with extensive experience in developing computational pipelines and algorithms, high-dimensional data analysis, statistical modeling, and machine and deep learning for bioinformatics applications. I am interested in solving complex problems beyond my comfort zone and enjoy playing chess, guitar, and reading.
+  <div style="max-width: 600px; text-align: justify;">
+    I am an interdisciplinary computational scientist with extensive experience in developing computational pipelines and algorithms, high-dimensional data analysis, statistical modeling, and machine learning for bioinformatics applications. Currently, I am a postdoctoral researcher at Los Alamos National Laboratory in the Theoretical Biology & Biophysics group. Interested in solving complex problems beyond my comfort zone and enjoy playing chess, guitar, and reading.
   </div>
 </div>
 
 <br><br>
 
 <h3 style="margin-bottom: 5px;">Skills:</h3>
-<ul>
-  <li>Proficient in developing end-to-end computational pipelines for bioinformatics and multi-omics data analysis: genomics, transcriptomics, metabolomics, and proteomics.</li>
+<ul style="margin-top: 0;">
+  <li>Proficient in developing end-to-end computational pipelines for bioinformatics applications.</li>
+  <li>Experienced in multi-omics data analysis: genomics, transcriptomics, metabolomics, and proteomics.</li>
   <li>Skilled in algorithm development, machine learning, deep learning, data mining, statistical modeling, time series analysis, and image and natural language processing.</li>
   <li>Experienced with Python, C/C++, and R.</li>
   <li>Solid background in molecular biology techniques: PCR, rtPCR, mass spectrometry, and flow cytometry.</li>
 </ul>
 
 <h3 style="margin-bottom: 5px;">Projects:</h3>
-<ul>
+<ul style="margin-top: 0;">
   <li><a href="https://github.com/raeufroushangar/ECMPIA">Encoding and Clustering Mutations Positional Impact Algorithm</a></li>
   <li><a href="https://github.com/raeufroushangar/HIV_pipeline">HIV pipeline</a></li>
 </ul>
 
-<h3 style="margin-bottom: 5px;">Publications:</h3>
-<p>Find my research on <a href="https://scholar.google.com/citations?user=NISquAgAAAAJ&hl=en">Google Scholar</a>.</p>
-
 <h3 style="margin-bottom: 5px;">Education:</h3>
-<ul>
+<ul style="margin-top: 0;">
   <li><strong>Dual Degree-PhD in Bioinformatics and Computational Biology & Biochemistry</strong>, Michigan State University (2014 - 2018)</li>
   <li><strong>B.Sc. in Biochemistry</strong>, Michigan State University (2010 - 2014)</li>
   <li><strong>B.Sc. in Physics</strong>, Cairo University (2004 - 2008)</li>
 </ul>
 
 <h3 style="margin-bottom: 5px;">Honors and Awards:</h3>
-<ul>
+<ul style="margin-top: 0;">
   <li>Recipient of The Paul & Daisy Soros Fellowship for New Americans (2015 - 2017)</li>
   <li>Recipient of Michigan State University Larry Fowler and Pamela Fraker Scholarships (2013 - 2014)</li>
   <li>Recipient of Michigan State University Leader of the Year Award (2013)</li>
