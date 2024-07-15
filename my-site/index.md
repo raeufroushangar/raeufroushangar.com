@@ -19,7 +19,7 @@ title: Home
   </div>
 
   <div style="max-width: 600px; text-align: justify;">
-    I am an interdisciplinary computational scientist with extensive experience in developing computational pipelines and algorithms, high-dimensional data analysis, statistical modeling, and machine learning for bioinformatics applications. Currently, I am a postdoctoral researcher at Los Alamos National Laboratory in the Theoretical Biology & Biophysics group. Interested in solving complex problems beyond my comfort zone and enjoy playing chess, guitar, and reading.
+    I am an interdisciplinary computational scientist with extensive experience in developing computational pipelines and algorithms, high-dimensional data analysis, statistical modeling, and machine learning for bioinformatics applications. Currently, I am a postdoctoral researcher at Los Alamos National Laboratory in the Theoretical Biology & Biophysics group. I thrive on solving complex problems beyond my comfort zone and enjoy playing chess, guitar, and reading.
   </div>
 </div>
 

@@ -1,8 +1,7 @@
 # _config.yml
-
-# title: "Raeuf Roushangar"
-# email: "rroushangar19@gmail.com"
-# description: "Interdisciplinary Computational Scientist"
+title: "Raeuf Roushangar"
+email: "rroushangar19@gmail.com"
+description: "Interdisciplinary Computational Scientist"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://raeufroushangar.github.io" # the base hostname & protocol for your site
 
