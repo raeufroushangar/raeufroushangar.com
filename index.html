@@ -10,7 +10,7 @@ title: Home
 
 <div style="text-align: center; margin-bottom: 40px;">
   <div style="font-size: 2.5em;">Raeuf Roushangar</div>
-  <div><a href="mailto:rroushangar19@gmail.com">rroushangar19@gmail.com</a></div>
+  <div><span id="email-link" style="cursor: pointer; text-decoration: underline;">click to reveal email</span></div>
 </div>
 
 <div style="display: flex; align-items: center;">
@@ -29,9 +29,7 @@ title: Home
     Previously, I was a PostDoc for one year and half working with <a href="https://cbi.mit.edu/biographies/" target="_blank">Stacy Springs</a> and <a href="https://biology.mit.edu/profile/anthony-j-sinskey/" target="_blank">Anthony Sinskey</a> at <a href="https://cbi.mit.edu" target="_blank">MIT Center for Biomedical Innovation</a>. I was also a Senior Computational Scientist (member of founding team) in stealth-stage startups where I led the development of cloud-native data processing pipelines, and  search & recommendation systems. I received my PhD from <a href="https://msu.edu" target="_blank">Michigan State University</a>, advised by <a href="https://georgemias.org" target="_blank">George Mias</a>.
     I enjoy developing algorithms, and playing chess and guitar.
   </div>
-  </div>
-  
-  
+</div>
 
 <br><br>
 
@@ -94,3 +92,10 @@ title: Home
     <span style="float: right;">2004</span>
   </li>
 </ul>
+
+<script>
+  document.getElementById("email-link").addEventListener("click", function() {
+    this.innerHTML = "<strong>email:</strong> rroushangar19@gmail.com";
+    this.style.textDecoration = "none";
+  });
+</script>
