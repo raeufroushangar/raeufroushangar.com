@@ -3,3 +3,5 @@ document.getElementById("email-link").addEventListener("click", function() {
     this.innerHTML = "<strong>email:</strong> rroushangar19@gmail.com";
     this.style.textDecoration = "none";
 });
+
+document.body.style.zoom = "110%";
