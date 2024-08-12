@@ -4,4 +4,3 @@ document.getElementById("email-link").addEventListener("click", function() {
     this.style.textDecoration = "none";
 });
 
-document.body.style.zoom = "110%";

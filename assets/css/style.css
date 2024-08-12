@@ -49,3 +49,8 @@ nav a:hover {
   text-align: left; /* Align text to the left within the block */
   padding-right: 0px; /* Add padding if necessary for fine-tuning */
 }
+
+body {
+  transform: scale(1.5);
+  transform-origin: 0 0;
+}
