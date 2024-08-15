@@ -21,9 +21,11 @@ if not os.path.exists(LOG_FILE):
 def log_ip():
     ip_address = request.remote_addr
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    print(f"IP {ip_address} accessed the site at {timestamp}")
     with open(LOG_FILE, 'a', newline='') as file:
         writer = csv.writer(file)
         writer.writerow([ip_address, timestamp])
+
 
 @app.route('/<path:filename>')
 def serve_static(filename):
