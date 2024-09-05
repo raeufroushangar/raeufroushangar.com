@@ -51,6 +51,6 @@ nav a:hover {
 }
 
 body {
-  transform: scale(.95); /* Adjust zoom */
+  transform: scale(.92); /* Adjust zoom */
   transform-origin: 0 0;
 }
