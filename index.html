@@ -1,9 +1,28 @@
 cat > index.html <<EOF
 <!DOCTYPE html>
-<html>
-  <head><title>Site Temporarily Offline</title></head>
-  <body style="font-family:sans-serif;text-align:center;margin-top:20%;">
-    <p>FTL</p>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Temporarily Offline</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #1a0000;
+      color: white;
+      font-family: Arial, sans-serif;
+    }
+    .message {
+      position: absolute;
+      top: 10px;
+      left: 15px;
+      font-size: 1.2em;
+      font-weight: bold;
+      color: crimson;
+    }
+  </style>
+</head>
+<body>
+  <div class="message">👹 F*TL</div>
+</body>
 </html>
 EOF
